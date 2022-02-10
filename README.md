@@ -19,7 +19,7 @@ Link js file to html and use:
 ```html
 <script src="local-picker.min.js"></script>
 <script>
-    const localpicker = new LocalPicker({
+    const localPicker = new LocalPicker({
         province: 'province',
         district: 'district',
         ward: 'ward'
